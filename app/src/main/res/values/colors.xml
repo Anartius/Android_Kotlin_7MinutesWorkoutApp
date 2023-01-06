@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="color_primary">#82212121</color>
     <color name="color_primary_dark">#82212121</color>
-    <color name="color_accent">#008F24</color>
+    <color name="color_accent">#00AAA4</color>
     <color name="light_grey">#C4C4C4</color>
+    <color name="toolbar_color_control_normal">#FF000000</color>
 </resources>

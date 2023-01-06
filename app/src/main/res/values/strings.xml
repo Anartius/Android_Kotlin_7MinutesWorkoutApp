@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">7MinutesWorkoutApp</string>
+    <string name="dialogCustomBackQuestion">This will stop your workout. You\'ve come this far, are you sure you want to quit?</string>
 </resources>
